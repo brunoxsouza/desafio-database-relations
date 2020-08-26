@@ -1,7 +1,11 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
 <h3 align="center">
-  Desafio 09: Relacionamentos com banco de dados no Node.js
+  Desafio 09: Relacionamentos com banco de dados no Node.js - Resolvido ✔️
+</h3>
+
+<h3 align="center">
+  ⚠️Este repositório contém a resolução, para resolver por conta própria: <a href="#template-da-aplicação">Template da aplicação</a>⚠️
 </h3>
 
 <blockquote align="center">“Mude você e todo o resto mudará naturalmente”!</blockquote>
